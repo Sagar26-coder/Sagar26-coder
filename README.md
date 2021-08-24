@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach reach to me from gmail my gmail account is sagarsalgar280@gmail.com 
+- 📫 How to reach reach to me from gmail . My gmail account is sagarsalgar280@gmail.com 
 
 <!---
 Sagar26-coder/Sagar26-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
