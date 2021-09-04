@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagar26-coder.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c programming.
+- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 Reach to me from  my gmail account . My gmail account is sagarsalgar280@gmail.com. 
 
