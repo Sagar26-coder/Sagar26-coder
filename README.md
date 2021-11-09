@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sagar26-coder.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on coding.
-- 📫 Reach to me from  my gmail account . My gmail account is sagarsalgar280@gmail.com. 
+- 👋 Hi, I’m Sagar
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on coding
+- 📫 Reach to me from here : sagarsalgar01@gmail.com
 
 <!---
 Sagar26-coder/Sagar26-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
