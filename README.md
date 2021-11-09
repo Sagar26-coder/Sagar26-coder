@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on coding
 - 📫 Reach to me from here : sagarsalgar01@gmail.com
 
